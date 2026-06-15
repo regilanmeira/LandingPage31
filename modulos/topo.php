@@ -10,7 +10,7 @@
     -->
     <style>
         body { display: flex; flex-direction: column; min-height: 100vh; }
-        main { flex: 1; } //Faz o item ocupar todo o espaço disponível, dividindo igualmente com outros itens com a mesma propriedade.
+        main { flex: 1; } 
         footer { background: #f4f4f4; padding: 20px 0; text-align: center; }
         .sidebar { background: #fafafa; padding: 15px; border-radius: 4px; }
     </style>
