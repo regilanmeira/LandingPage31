@@ -6,7 +6,7 @@
         <a href="#home" class="tabs">Início</a>
         <a href="#recursos" class="tabs">Recursos</a>
         <a href="#contato" class="tabs">Contato</a>
-        <a href="#curriculo" class="tabs">Currículo</a>
+        <a href="./curriculo.php" class="tabs">Currículo</a>
         <a href="#portfolio" class="tabs">Portfolio</a>
         
     </div>
