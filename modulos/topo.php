@@ -18,4 +18,6 @@
 <body>
 <header class="container">
     <h1>Bem-vindo à Nossa Landing Page</h1>
+    <h2>O objetivo desta Landing é apresentar
+        o uso de comandos do github </h2>
 </header>
