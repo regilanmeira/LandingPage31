@@ -4,10 +4,11 @@
         <blockquote>
             "Mudar para essa estrutura modular salvou o tempo da nossa equipe de desenvolvimento dando produtividade
             e melhor organização do trabalho e versionamento do codigo!"
-            <br><strong>- André Ganen - Desenvolvedor</strong>
+            <br><strong>- André Hansen - Desenvolvedor</strong>
         </blockquote>
         <hr>
         <h4>Quer aprender mais</h4>
         <p>Inscreva-se em nossas aulas.</p>
+        <p>Phyerre Phyetro Patati.</p>
     </div>
 </aside>
